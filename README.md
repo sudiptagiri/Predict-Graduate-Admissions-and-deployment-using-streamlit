@@ -5,23 +5,23 @@ Probelm Statement This dataset is created for prediction of Graduate Admissions 
 <BR>
 Content The dataset contains several parameters which are considered important during the application for Masters Programs. The parameters included are :<BR>
 <BR>
-GRE Scores ( out of 340 )
-TOEFL Scores ( out of 120 )
-University Rating ( out of 5 )
-Statement of Purpose and Letter of Recommendation Strength ( out of 5 )
-Undergraduate GPA ( out of 10 )
-Research Experience ( either 0 or 1 )
-Chance of Admit ( ranging from 0 to 1 ) is the Target Variable
+GRE Scores ( out of 340 )<BR>
+TOEFL Scores ( out of 120 )<BR>
+University Rating ( out of 5 )<BR>
+Statement of Purpose and Letter of Recommendation Strength ( out of 5 )<BR>
+Undergraduate GPA ( out of 10 )<BR>
+Research Experience ( either 0 or 1 )<BR>
+Chance of Admit ( ranging from 0 to 1 ) is the Target Variable<BR>
 Models<BR>
 <BR>
-Logistic Regression
-Random_Forest_Classifier
-Support Vector Machine
-KNN (KNeighbors_Classifier)
-Extra_Trees_Classifier
-XGBClassifier
-AdaBoost_Classifier
-Decision Tree_Classifier
-Artificial Neural Network
+Logistic Regression<BR>
+Random_Forest_Classifier<BR>
+Support Vector Machine<BR>
+KNN (KNeighbors_Classifier)<BR>
+Extra_Trees_Classifier<BR>
+XGBClassifier<BR>
+AdaBoost_Classifier<BR>
+Decision Tree_Classifier<BR>
+Artificial Neural Network<BR>
 <BR>
 DEPLOYMENT : deployment using streamlit 
